@@ -1,0 +1,7 @@
+.avatar > .col-md-12 > .row > img {
+	max-width: 100%;
+}
+
+.primary-content ul li {
+	margin-left: 15px;
+}
