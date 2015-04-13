@@ -6,6 +6,10 @@
 	margin-left: 15px;
 }
 
+/* Link */
+.panel-body a:link { color: #0000EE; }
+.panel-body a:visited { color: #551A8B; }
+
 /* Italic */
 i, em {
     font-style: italic;
