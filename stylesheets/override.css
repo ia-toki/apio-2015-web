@@ -5,3 +5,6 @@
 .primary-content ul li {
 	margin-left: 15px;
 }
+
+.panel-body a:link { color: #0000EE; }
+.panel-body a:visited { color: #551A8B; }
