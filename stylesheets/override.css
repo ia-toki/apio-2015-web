@@ -20,6 +20,8 @@
 /* Link */
 .panel-body a:link { color: #1976d2; }
 .panel-body a:visited { color: #551A8B; }
+.row .primary-content a:link { color: #1976d2; }
+.row .primary-content a:visited { color: #551A8B; }
 
 /* Italic */
 i, em {
